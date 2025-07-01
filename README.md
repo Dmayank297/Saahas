@@ -8,8 +8,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-Kotlin-blueviolet?style=flat-square&logo=kotlin" />
   <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-34a853?style=flat-square&logo=android" />
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-brightgreen?style=flat-square&logo=springboot" />
-  <img src="https://img.shields.io/badge/Database-Room%20%26%20PostgreSQL-blue?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20MongoDB-green?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-Room" />
   <img src="https://img.shields.io/badge/Auth-Firebase-orange?style=flat-square&logo=firebase" />
 </p>
 
@@ -63,13 +63,13 @@ It works under **3 Emergency Levels**:
 
 ## 🛠️ Tech Stack
 
-| Layer         | Tools & Libraries                                                                 |
-|---------------|------------------------------------------------------------------------------------|
-| **UI**        | Jetpack Compose, Material 3, Custom animations                                     |
-| **Backend**   | Spring Boot + PostgreSQL (via NeonDB)                                              |
-| **Local DB**  | Room Persistence Library                                                           |
-| **Auth**      | Firebase Authentication (Email, Google)                                           |
-| **APIs**      | Google Maps, SpeechRecognizer, Sensors, SMSManager                                |
+| Layer        | Tools & Libraries                                  |
+|--------------|----------------------------------------------------|
+| **UI**       | Jetpack Compose, Material 3, Custom animations     |
+| **Backend**  | Node.js (Express.js) + MongoDB (Cloud)             |
+| **Local DB** | Room Persistence Library                           |
+| **Auth**     | Firebase Authentication (Email, Google)            |
+| **APIs**     | Google Maps, SpeechRecognizer, Sensors, SMSManager |
 
 ---
 
@@ -89,9 +89,8 @@ Add your screenshots in a new folder called `screenshots/` inside the project ro
 
 ### Emergency Info
 ![Levels](screenshots/emergency1.jpg)
-
-### Emergency Info
 ![Levels](screenshots/emergency2.jpg)
 
 ### Voice System
 ![Voice](screenshots/voice.jpg)
+
