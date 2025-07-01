@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Built%20With-Kotlin-blueviolet?style=flat-square&logo=kotlin" />
   <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-34a853?style=flat-square&logo=android" />
   <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20MongoDB-green?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-Room" />
+  <img src="https://img.shields.io/badge/Database-Room%20%26%20green?style=flat-square&logo=Room" />
   <img src="https://img.shields.io/badge/Auth-Firebase-orange?style=flat-square&logo=firebase" />
 </p>
 
