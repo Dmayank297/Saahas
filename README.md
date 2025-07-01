@@ -75,8 +75,6 @@ It works under **3 Emergency Levels**:
 
 ## 🖼️ Screenshots
 
-Add your screenshots in a new folder called `screenshots/` inside the project root, and link them like below:
-
 ```markdown
 ### Home Screen
 ![Home](screenshots/home.jpg)
