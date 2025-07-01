@@ -1,0 +1,18 @@
+package com.example.saahas
+
+const val SOS_SCREEN = "SOSScreen"
+const val ADD_FRIENDS = "AddFriends"
+const val ONBOARDING = "Onboarding"
+const val SIGN_UP = "SignUp"
+const val SIGN_IN = "SignIn"
+const val SPLASH_SCREEN = "SplashScreen"
+const val LOCATION_MAP_SCREEN = "LocationMapScreen"
+const val VOICE_RECORDING_SCREEN = "VoiceRecordingScreen"
+const val VOICE_CONTROL_SCREEN = "VoiceControlScreen"
+const val SENSOR_SCREEN = "SensorScreen"
+const val SERVICE_TRIGGER_OPTION_SCREEN = "ServiceTriggerOptionScreen"
+const val HELPLINE_NUMBER_SCREEN = "HelplineNumberScreen"
+const val REPORT_CRIME = "ReportCrime"
+const val COMMUNITY_REPORT_SCREEN = "CommunityReportScreen"
+const val POST = "Post"
+const val VOLUNTEER = "Volunteer"
