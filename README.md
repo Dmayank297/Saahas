@@ -89,8 +89,30 @@ Add your screenshots in a new folder called `screenshots/` inside the project ro
 
 ### Emergency Info
 ![Levels](screenshots/emergency1.jpg)
+
 ![Levels](screenshots/emergency2.jpg)
 
 ### Voice System
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+- Android Studio (Giraffe or newer)
+- Kotlin 1.9+
+- Firebase Project with Authentication enabled
+- Google Maps API Key
+
+### ⚙️ Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Dmayank297/Saahas.git
+   cd Saahas
+
+
+
 ![Voice](screenshots/voice.jpg)
 
