@@ -93,14 +93,14 @@ Add your screenshots in a new folder called `screenshots/` inside the project ro
 ![Levels](screenshots/emergency2.jpg)
 
 ### Voice System
-
+![Voice](screenshots/voice.jpg)
 ---
-
+```
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
 
-- Android Studio (Giraffe or newer)
+- Android Studio (ladybug or newer)
 - Kotlin 1.9+
 - Firebase Project with Authentication enabled
 - Google Maps API Key
@@ -113,6 +113,4 @@ Add your screenshots in a new folder called `screenshots/` inside the project ro
    cd Saahas
 
 
-
-![Voice](screenshots/voice.jpg)
 
