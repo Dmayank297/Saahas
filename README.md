@@ -79,21 +79,20 @@ It works under **3 Emergency Levels**:
 ### Home Screen
 ![home](https://github.com/user-attachments/assets/60bd8250-7e78-44c1-891b-222935ba4daf)
 
-
 ### Map Screen
-![Map](![map.jpg](screenshots%2Fmap.jpg))
+![map](https://github.com/user-attachments/assets/ada50e09-3c73-477a-aa76-eba8c785a2c4)
 
 ### Emergency Triggers
-![Levels](![Emergency_Options.jpg](screenshots%2FEmergency_Options.jpg))
+![Emergency_Options](https://github.com/user-attachments/assets/7fc0ffbc-d719-4045-ae47-35341178e074)
 
 ### Emergency Info
-![Levels](![emergency1.jpg](screenshots%2Femergency1.jpg))
+![emergency1](https://github.com/user-attachments/assets/d28e1995-efe7-418b-a558-eec0ffd583e0)
 
-![Levels](![emergency2.jpg](screenshots%2Femergency2.jpg))
+![emergency2](https://github.com/user-attachments/assets/0f7a2c8e-03d6-4cc0-8561-a4ed7b074748)
 
 ### Voice System
-![Voice](![voice.jpg](screenshots%2Fvoice.jpg))
----
+![voice](https://github.com/user-attachments/assets/9db6da33-6d0f-4b40-a316-705abd77c56e)
+
 ```
 ## 🚀 Getting Started
 
