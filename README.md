@@ -77,7 +77,7 @@ It works under **3 Emergency Levels**:
 
 ```markdown
 ### Home Screen
-![Home](![home.jpg](screenshots%2Fhome.jpg))
+![Home](https://github.com/Dmayank297/Saahas/blob/main/screenshots/home.jpg)
 
 ### Map Screen
 ![Map](![map.jpg](screenshots%2Fmap.jpg))
