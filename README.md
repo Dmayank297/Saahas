@@ -77,7 +77,8 @@ It works under **3 Emergency Levels**:
 
 ```markdown
 ### Home Screen
-![Image](https://github.com/user-attachments/assets/989de05b-c2dc-45f5-8c38-15f93aa5a022)
+![home](https://github.com/user-attachments/assets/60bd8250-7e78-44c1-891b-222935ba4daf)
+
 
 ### Map Screen
 ![Map](![map.jpg](screenshots%2Fmap.jpg))
