@@ -77,21 +77,21 @@ It works under **3 Emergency Levels**:
 
 ```markdown
 ### Home Screen
-![Home](screenshots/home.jpg)
+![Home](![home.jpg](screenshots%2Fhome.jpg))
 
 ### Map Screen
-![Map](screenshots/map.jpg)
+![Map](![map.jpg](screenshots%2Fmap.jpg))
 
 ### Emergency Triggers
-![Levels](screenshots/Emergency_Options.jpg)
+![Levels](![Emergency_Options.jpg](screenshots%2FEmergency_Options.jpg))
 
 ### Emergency Info
-![Levels](screenshots/emergency1.jpg)
+![Levels](![emergency1.jpg](screenshots%2Femergency1.jpg))
 
-![Levels](screenshots/emergency2.jpg)
+![Levels](![emergency2.jpg](screenshots%2Femergency2.jpg))
 
 ### Voice System
-![Voice](screenshots/voice.jpg)
+![Voice](![voice.jpg](screenshots%2Fvoice.jpg))
 ---
 ```
 ## 🚀 Getting Started
